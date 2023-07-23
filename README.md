@@ -1,2 +1,1 @@
-# Atmel
-Bare Metal Codes
+Welcome to the repository of bare metal codes! This repository contains code examples and projects that demonstrate how to program and run software directly on hardware without an operating system or a runtime environment. The code provided here is intended for educational and experimental purposes, helping developers gain a deeper understanding of low-level hardware programming and how computers work at their core.
